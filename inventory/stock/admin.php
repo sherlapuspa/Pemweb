@@ -107,7 +107,6 @@ if (!empty($_SESSION['login'])) {
                     <div class="menu-inner">
                         <nav>
                             <ul class="metismenu" id="menu">
-                                <!-- <li><a href="index.php"><span>Notes</span></a></li> -->
                                 <li>
                                     <a href="stock.php"><i class="ti-dashboard"></i><span>Stock Barang</span></a>
                                 </li>
