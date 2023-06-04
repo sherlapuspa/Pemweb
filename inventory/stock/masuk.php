@@ -49,7 +49,7 @@
                                 <button type='button' class='close' data-dismiss='alert' aria-label='Close'>
                                     <span aria-hidden='true'>&times;</span>
                                 </button>
-                                <center><h4 class='alert-heading'>Data Berhasil Diedit</h4><center>
+                                <center><h4 class='alert-heading'>Data Gagal Diedit</h4><center>
                             </div>
                         </div>
                     </div>
@@ -140,7 +140,7 @@ echo "<div class='container p-2'>
                             <button type='button' class='close' data-dismiss='alert' aria-label='Close'>
                                 <span aria-hidden='true'>&times;</span>
                             </button>
-                            <center><h4 class='alert-heading'>Data Berhasil Dihapus</h4><center>
+                            <center><h4 class='alert-heading'>Data Gagal Dihapus</h4><center>
                         </div>
                     </div>
                 </div>
